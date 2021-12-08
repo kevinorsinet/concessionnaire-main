@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "../../../theme/web/custom-variables.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
